@@ -1,3 +1,9 @@
+---
+layout: page_with_text
+title: hiring
+permalink: /hiring/
+---
+
 <b>Title: Development Coordinator and Manager</b>
 
 <b>Introduction</b><br>
