@@ -7,7 +7,7 @@ permalink: /hiring/
 <b>Title: Development Coordinator and Manager</b>
 
 <b>Introduction</b><br>
-The World According to Sound is looking to form new partnerships with organizations interested in making, distributing, and promoting critical and formally innovative audio. 
+<a href="https://www.theworldaccordingtosound.org">The World According to Sound</a> is looking to form new partnerships with organizations interested in making, distributing, and promoting critical and formally innovative audio.
 
 <b>Who We Are</b><br>
 We (Chris Hoff and Sam Harnett) are a two-person audio team that collaborates with media outlets, arts organizations, academic institutions, and centers for the blind to make radio and live sound events. We produce a podcast, an 8-channel live sound event, a streaming listening series, and critical radio documentaries. The mission of The World According to Sound is twofold: to create experiential, immersive, communal sound events and to produce audio journalism that critiques neoliberalism and challenges the formal conventions of public radio. 
